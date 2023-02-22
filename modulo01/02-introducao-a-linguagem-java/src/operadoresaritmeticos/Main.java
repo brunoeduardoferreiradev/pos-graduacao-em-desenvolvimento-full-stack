@@ -28,6 +28,9 @@ public class Main {
 		total = numA % numB;
 		System.out.println("Resto de A % B = " + total);
 
+		// Calculo de Potencia ( 4³ )
+		total = 4 * 4 * 4;
+		System.out.println("Potencia de 4³ = " + total);
 	}
 
 }
