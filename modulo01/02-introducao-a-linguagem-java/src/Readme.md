@@ -123,25 +123,25 @@ I. Uma característica da linguagem imperativa é que ela consiste em várias in
 PORQUE
 II. Linguagens do paradigma imperativo expressam comandos para o computador executar, se concentrando no processo explícito de o que um programa deve fazer e como este programa deve fazer
 Sobre a relação entre as asserções, é correto afirmar que:
-- [] - a - As asserções I e II são proposições falsas
-- [] - b - A asserção I é uma proposição falsa, e a II é uma proposição verdadeira
-- [] - c - A asserção I é uma proposição verdadeira, e a II é uma proposição falsa
-- [] - d - As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I
-- [✔] - e - As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I
+- 🔳 - a - As asserções I e II são proposições falsas
+- 🔳 - b - A asserção I é uma proposição falsa, e a II é uma proposição verdadeira
+- 🔳 - c - A asserção I é uma proposição verdadeira, e a II é uma proposição falsa
+- 🔳 - d - As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I
+- ✅ - e - As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I
 
 > 3 - Um algoritmo representa um conjunto de instruções para que algo seja feito. Uma receita, uma bula de remédio ou um manual de instruções são considerados algoritmos descritivos, uma vez que descrevem passo a passo o que deve ser feito e como deve ser feito. Quais os tipos de representações mais comuns?
 
-* [] - a - Código de programação, programas e fluxogramas
-* [✔] - b - Descrição narrativa, fluxograma e pseudocódigo
-* [] - c - Pseudocódigo, código de programação e programas
-* [] - d - Fluxograma, pseudocódigo e programas
-* [] - 3 - Descrição narrativa, pseudocódigo e programas
+- 🔳 - a - Código de programação, programas e fluxogramas
+- ✅ - b - Descrição narrativa, fluxograma e pseudocódigo
+- 🔳 - c - Pseudocódigo, código de programação e programas
+- 🔳 - d - Fluxograma, pseudocódigo e programas
+- 🔳 - 3 - Descrição narrativa, pseudocódigo e programas
 
 
 > 4 - No desenvolvimento de softwares, as linguagens de programação em geral como Java, entre outras, possuem operadores aritméticos com a mesma função dos operadores da matemática, cada qual com suas ações específicas. Com estes operadores, podemos realizar as operações matemáticas básicas como soma, subtração, multiplicação e divisão, bem como outros tipos de operações. Um exemplo de uso da potência do tipo quatro ao cubo ou quatro elevado a três (4³) em Java está descrito na instrução:
 
-* [✔] - a - total = 4 * 4 * 4
-* [] - b - total = 4^3
-* [] - c - total = 4³
-* [] - d - total = 4 % 3
-* [] - e - total = cubo(4)
+- ✅ - a - total = 4 * 4 * 4
+- 🔳 - b - total = 4^3
+- 🔳 - c - total = 4³
+- 🔳 - d - total = 4 % 3
+- 🔳 - e - total = cubo(4)
