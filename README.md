@@ -4,7 +4,7 @@
 
 # Pós-Graduação em Desenvolvimento Full Stack
 <div align="center">
-  ![GitHub language count](https://img.shields.io/github/languages/count/brunoeduardoferreiradev/pos-graduacao-em-desenvolvimento-full-stack?style=for-the-badge)
+  <img src="https://img.shields.io/github/languages/count/brunoeduardoferreiradev/pos-graduacao-em-desenvolvimento-full-stack?style=for-the-badge" >
 </div>
 
 
