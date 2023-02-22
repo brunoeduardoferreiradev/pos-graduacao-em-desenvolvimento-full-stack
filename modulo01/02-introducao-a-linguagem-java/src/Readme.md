@@ -111,11 +111,11 @@ ______
 # **Exercícios**
 
 > 1 - Apesar de parecer um conceito longe de nossa realidade e, em muitos casos, ser associado a programação de computadores, os algoritmos estão contidos em nosso cotidiano em diversos momentos e em diversas atividades do dia. Sobre os algoritmos, marque a alternativa que corretamente os define.
-* [] - a - Nas embalagens de produtos diversos, o item modo de usar é um exemplo de algoritmo em pseudocódigo
-* [] - b - O algoritmo é uma sequência com quantidade indeterminada de instruções com o objetivo de resolver um problema
-* [] - c - Fluxograma ou diagramas de sequência são exemplos de representações de um algoritmo
-* [X] - d - Cada instrução de um algoritmo deve ser executada em uma ordem específica para resolver um problema computacional ou não
-* [] - e - Fluxograma e diagramas de sequência são exemplos de representações gráficas visuais de um algoritmo
+- 🔳 - a - Nas embalagens de produtos diversos, o item modo de usar é um exemplo de algoritmo em pseudocódigo
+- 🔳 - b - O algoritmo é uma sequência com quantidade indeterminada de instruções com o objetivo de resolver um problema
+- 🔳 - c - Fluxograma ou diagramas de sequência são exemplos de representações de um algoritmo
+- ✅ - d - Cada instrução de um algoritmo deve ser executada em uma ordem específica para resolver um problema computacional ou não
+- 🔳 - e - Fluxograma e diagramas de sequência são exemplos de representações gráficas visuais de um algoritmo
 
 > 2 - Embora não haja uma maneira definitiva de classificar ou agrupar os tipos de linguagens de programação, uma abordagem comum é dividi-los em estilos de programação ou, formalmente definido, em paradigmas.
 Considerando esse contexto, avalie as seguintes asserções e a relação proposta entre elas.
@@ -127,12 +127,12 @@ Sobre a relação entre as asserções, é correto afirmar que:
 - [] - b - A asserção I é uma proposição falsa, e a II é uma proposição verdadeira
 - [] - c - A asserção I é uma proposição verdadeira, e a II é uma proposição falsa
 - [] - d - As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I
-- [X] - e - As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I
+- [✔] - e - As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I
 
 > 3 - Um algoritmo representa um conjunto de instruções para que algo seja feito. Uma receita, uma bula de remédio ou um manual de instruções são considerados algoritmos descritivos, uma vez que descrevem passo a passo o que deve ser feito e como deve ser feito. Quais os tipos de representações mais comuns?
 
 * [] - a - Código de programação, programas e fluxogramas
-* [X] - b - Descrição narrativa, fluxograma e pseudocódigo
+* [✔] - b - Descrição narrativa, fluxograma e pseudocódigo
 * [] - c - Pseudocódigo, código de programação e programas
 * [] - d - Fluxograma, pseudocódigo e programas
 * [] - 3 - Descrição narrativa, pseudocódigo e programas
@@ -140,7 +140,7 @@ Sobre a relação entre as asserções, é correto afirmar que:
 
 > 4 - No desenvolvimento de softwares, as linguagens de programação em geral como Java, entre outras, possuem operadores aritméticos com a mesma função dos operadores da matemática, cada qual com suas ações específicas. Com estes operadores, podemos realizar as operações matemáticas básicas como soma, subtração, multiplicação e divisão, bem como outros tipos de operações. Um exemplo de uso da potência do tipo quatro ao cubo ou quatro elevado a três (4³) em Java está descrito na instrução:
 
-* [X] - a - total = 4 * 4 * 4
+* [✔] - a - total = 4 * 4 * 4
 * [] - b - total = 4^3
 * [] - c - total = 4³
 * [] - d - total = 4 % 3
