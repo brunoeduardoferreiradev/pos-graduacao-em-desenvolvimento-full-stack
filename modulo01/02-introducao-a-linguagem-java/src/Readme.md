@@ -56,13 +56,13 @@ Cada linguagem de programação tende a suportar um estilo (ou paradigma) partic
 
 Dentre os principais paradigmas de linguagem de programação, temos (MANZANO, 2016):
 
-Paradigma imperativo ou estrutura sequencial: O paradigma consiste em várias instruções e, após a execução de todas elas, o resultado é armazenado em variáveis, que são espaços na memória reservados para guardar dados. Neste paradigma, uma lista de instruções é apresentada ao computador para que ele possa executá-las uma a uma, passo a passo;
-Paradigma procedural: Trata-se de um paradigma de programação estruturado baseado no conceito de chamada de procedimento, os comandos podem se apresentar como sub-rotinas, métodos ou funções. As principais linguagens são: C, C++, Java e Pascal;
-Paradigma orientado a objetos (POO): Trata-se de um paradigma de programação que usa objetos para modelar entidades de dados. Embora a maioria das linguagens de programação tenha adotado características orientadas a objetos até certo ponto, as linguagens atualmente em destaque incluem: Java, Python, Ruby e C++;
-Paradigma de processamento paralelo: Neste paradigma, o processamento das instruções do programa é dividido entre vários processadores. Alguns exemplos de linguagens são o NESL (um dos mais antigos), C e C++;
-Paradigma declarativo:  Este paradigma permite que o programador instrua o computador sobre o que ele precisa fazer, sem se preocupar em instruí-lo como alcançar um objetivo. Logo, trata-se de um paradigma em que o programador define o que precisa ser realizado pelo programa sem definir como ele deve ser implementado;
-Paradigma de lógica: O paradigma da programação lógica não é composto de instruções - é composto de fatos e cláusulas. Ele usa tudo o que sabe e tenta criar o mundo onde todos esses fatos e cláusulas são verdadeiros. Algumas linguagens são o Prolog, Alice e Ciao;
-Paradigma funcional: Trata-se de um paradigma que está no centro das atenções há um tempo por causa do JavaScript, uma linguagem de programação funcional que ganhou mais popularidade recentemente. Exemplos de linguagens: JavaScript, Scala e Haskell.
+- _**Paradigma imperativo ou estrutura sequencial**_: O paradigma consiste em várias instruções e, após a execução de todas elas, o resultado é armazenado em variáveis, que são espaços na memória reservados para guardar dados. Neste paradigma, uma lista de instruções é apresentada ao computador para que ele possa executá-las uma a uma, passo a passo;
+- _**Paradigma procedural**_: Trata-se de um paradigma de programação estruturado baseado no conceito de chamada de procedimento, os comandos podem se apresentar como sub-rotinas, métodos ou funções. As principais linguagens são: C, C++, Java e Pascal;
+- _**Paradigma orientado a objetos (POO)**_: Trata-se de um paradigma de programação que usa objetos para modelar entidades de dados. Embora a maioria das linguagens de programação tenha adotado características orientadas a objetos até certo ponto, as linguagens atualmente em destaque incluem: Java, Python, Ruby e C++;
+- _**Paradigma de processamento paralelo**_: Neste paradigma, o processamento das instruções do programa é dividido entre vários processadores. Alguns exemplos de linguagens são o NESL (um dos mais antigos), C e C++;
+- _**Paradigma declarativo**_:  Este paradigma permite que o programador instrua o computador sobre o que ele precisa fazer, sem se preocupar em instruí-lo como alcançar um objetivo. Logo, trata-se de um paradigma em que o programador define o que precisa ser realizado pelo programa sem definir como ele deve ser implementado;
+- _**Paradigma de lógica**_: O paradigma da programação lógica não é composto de instruções - é composto de fatos e cláusulas. Ele usa tudo o que sabe e tenta criar o mundo onde todos esses fatos e cláusulas são verdadeiros. Algumas linguagens são o Prolog, Alice e Ciao;
+- _**Paradigma funcional**_ : Trata-se de um paradigma que está no centro das atenções há um tempo por causa do JavaScript, uma linguagem de programação funcional que ganhou mais popularidade recentemente. Exemplos de linguagens: JavaScript, Scala e Haskell.
 Cabe destacar que não existe o melhor paradigma ou o paradigma certo. Tudo dependerá da finalidade do projeto o qual você está desenvolvendo.
 
 Independentemente do paradigma escolhido ou até mesmo da linguagem de programação, alguns conceitos são fundamentais e merecem uma atenção a mais. A começar pelas variáveis.
@@ -89,16 +89,11 @@ Observe que os operadores utilizados na linguagem Java devem seguir a mesma orde
 
 Assim como em outras linguagens, em Java as strings são identificadas como uma sequência de caracteres representados entre aspas. Um número entre aspas é um caractere do tipo string, porém, um número sem aspas se torna um tipo numérico (inteiro ou ponto flutuante).
 
- 
-
-Tópicos avançados
+## **Tópicos avançados**
 
 Algoritmos, abstração, decomposição e reconhecimento de padrões são pilares do chamado Pensamento Computacional. Pensar computacionalmente não é o mesmo que pensar como um computador, mas sim, pensar racionalmente para resolver problemas. Você pode compreender mais sobre pensamento computacional lendo o artigo Pensamento Computacional na educação básica acessando o link: <http://ojs.sector3.com.br/index.php/rbie/article/view/v29p604>. 
 
  
-
- 
-
 Referência Bibliográfica
 
 FORBELLONE, A. L. V.; EBERSPACHER, H. F. Lógica de programação: a construção de algoritmos e estruturas de dados. São Paulo: Prentice Hall, 2005.
