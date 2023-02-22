@@ -6,10 +6,8 @@
 <div align="center">
   <img src="https://img.shields.io/github/languages/count/brunoeduardoferreiradev/pos-graduacao-em-desenvolvimento-full-stack?style=for-the-badge" >
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/brunoeduardoferreiradev/pos-graduacao-em-desenvolvimento-full-stack?style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunoeduardoferreiradev/pos-graduacao-em-desenvolvimento-full-stack?style=for-the-badge">
 </div>
-
-
-
 
 ## Dados do Curso
 ![Badge em Status](https://img.shields.io/badge/STATUS-CURSANDO-yellow?style=for-the-badge)
