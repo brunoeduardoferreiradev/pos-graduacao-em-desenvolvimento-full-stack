@@ -123,11 +123,11 @@ I. Uma característica da linguagem imperativa é que ela consiste em várias in
 PORQUE
 II. Linguagens do paradigma imperativo expressam comandos para o computador executar, se concentrando no processo explícito de o que um programa deve fazer e como este programa deve fazer
 Sobre a relação entre as asserções, é correto afirmar que:
-* [] - a - As asserções I e II são proposições falsas
-* [] - b - A asserção I é uma proposição falsa, e a II é uma proposição verdadeira
-* [] - c - A asserção I é uma proposição verdadeira, e a II é uma proposição falsa
-* [] - d - As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I
-* [X] - e - As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I
+- [] - a - As asserções I e II são proposições falsas
+- [] - b - A asserção I é uma proposição falsa, e a II é uma proposição verdadeira
+- [] - c - A asserção I é uma proposição verdadeira, e a II é uma proposição falsa
+- [] - d - As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I
+- [X] - e - As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I
 
 > 3 - Um algoritmo representa um conjunto de instruções para que algo seja feito. Uma receita, uma bula de remédio ou um manual de instruções são considerados algoritmos descritivos, uma vez que descrevem passo a passo o que deve ser feito e como deve ser feito. Quais os tipos de representações mais comuns?
 
