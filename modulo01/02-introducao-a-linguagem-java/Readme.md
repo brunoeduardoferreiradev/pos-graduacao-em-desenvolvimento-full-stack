@@ -162,6 +162,9 @@ Diferenciar as estruturas de condição simples, composta e aninhada.
 
 Antes de começarmos a trabalhar o conceito de estrutura de decisão e também sobre estrutura de repetição, vamos entender um pouco mais sobre o fluxo de um algoritmo. Considere o algoritmo da figura 1 a seguir.
 
+<div align="center">
+![image](https://user-images.githubusercontent.com/125761885/221072170-3fb2da55-777f-4f41-ab76-5b014cba789f.png)
+</div>
 
 Figura 1 – Algoritmo com estrutura sequencial Fonte: Elaborado pelo autor
 
