@@ -21,6 +21,13 @@ Um vetor ou array é uma coleção de um ou mais valores do mesmo tipo. Cada val
 
 Em uma rua, se uma casa representa uma posição de memória onde guardamos um único valor, teremos agora na rua um prédio com n andares, onde temos o térreo (0), o primeiro andar (1), o segundo andar (2), e assim por diante até o andar n-1. Ou seja, se o prédio tiver 10 andares (este é o valor de n), o primeiro será o andar 0 (zero) e o último o andar 9 (nove). Veja a ilustração na figura 2.
 
+<div align="center">
+   <img src="" />
+</div>   
+
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/125761885/221376723-d5c81856-1b6b-4e9e-82d2-3ecc07d0a5d6.png" />
+</div> 
 
 Figura 2 - Rua representando uma memória com variáveis simples e compostas Fonte: Elaborado pelo autor
 
