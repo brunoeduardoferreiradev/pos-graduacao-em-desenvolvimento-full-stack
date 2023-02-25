@@ -1,5 +1,5 @@
 /*
- * Observe com atenção o seguinte código escrito em Java.
+ * Observe com atenção o seguinte código escrito em Java. ( Ainda aguardando resolução possivel problema com exercicio errado )
  * 
  * Considerando o uso de uma estrutura de repetição na linha 3 deste código, marque a alternativa que apresenta respectivamente os valores de x e d após a execução do laço while.
  * 🔲
