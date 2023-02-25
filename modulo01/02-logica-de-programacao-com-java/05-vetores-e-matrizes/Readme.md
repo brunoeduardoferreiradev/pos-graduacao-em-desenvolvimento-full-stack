@@ -22,14 +22,10 @@ Um vetor ou array é uma coleção de um ou mais valores do mesmo tipo. Cada val
 Em uma rua, se uma casa representa uma posição de memória onde guardamos um único valor, teremos agora na rua um prédio com n andares, onde temos o térreo (0), o primeiro andar (1), o segundo andar (2), e assim por diante até o andar n-1. Ou seja, se o prédio tiver 10 andares (este é o valor de n), o primeiro será o andar 0 (zero) e o último o andar 9 (nove). Veja a ilustração na figura 2.
 
 <div align="center">
-   <img src="" />
-</div>   
-
-<div align="center">
    <img src="https://user-images.githubusercontent.com/125761885/221376723-d5c81856-1b6b-4e9e-82d2-3ecc07d0a5d6.png" />
 </div> 
 
-Figura 2 - Rua representando uma memória com variáveis simples e compostas Fonte: Elaborado pelo autor
+_**Figura 1 - Rua representando uma memória com variáveis simples e compostas Fonte: Elaborado pelo autor**_
 
 Observe na figura 2 que temos duas variáveis simples, uma é a casa26 e outra é a casa36. Temos também uma variável composta que é chamada predio (sem acento pois é o nome da variável).
 
@@ -85,8 +81,11 @@ O código 1 e o código 2 produzem a mesma saída e tem os mesmos valores de ent
 
 Agora considere que temos um array com a idade de 10 alunos. As idades são estas do array da figura 2.
 
-Figura 2 - Array unidimensional ou vetor Fonte: Elaborado pelo autor (2021)
-Figura 2 - Array unidimensional ou vetor Fonte: Elaborado pelo autor (2021)
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/125761885/221376840-69e1fdfd-1613-4109-8500-6b5df54a98c1.png" />
+</div> 
+_**Figura 2 - Array unidimensional ou vetor Fonte: Elaborado pelo autor (2021)**_
+
 
 Na figura 2 nós temos os índices ilustrados pelos valores de 0 a 9. Considere o índice como sendo o andar do prédio ou, em outras palavras, como sendo a posição do valor (da idade) no vetor.
 
@@ -134,7 +133,11 @@ Deste modo, conseguimos percorrer todo o nosso array e mostrar estes dados na te
 
 Quando trabalhamos com vetores, temos uma única dimensão, ou seja, uma única linha. Em Java, podemos declarar um vetor de inteiros de tamanho int vetor[0][10] ou int vetor[10], ambos geram a mesma saída, que é o vetor da figura 2 com as idades dos alunos. Agora, ao invés de utilizarmos uma única linha, utilizaremos mais. Observe uma matriz 3x3 (três por três) como a apresentada na figura 3 a seguir.
 
-Figura 3 – Uma estrutura de dados do tipo matriz ou array multidimensional Fonte: Elaborado pelo autor.
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/125761885/221376825-5beee987-2680-48c9-b7a4-ed745e3c2b04.png" />
+</div> 
+
+_**Figura 3 – Uma estrutura de dados do tipo matriz ou array multidimensional Fonte: Elaborado pelo autor.**_
 
 Observe na figura 3 que temos uma matriz com 3 linhas e cada linha possui 3 colunas. Por exemplo, na primeira linha (com índice 0) nós temos as colunas 1, 2 e 3; na segunda linha (com índice 1), temos os valores 5, 6 e 7; na terceira linha (com índice 2), temos os valores 8, 9, 0.
 
