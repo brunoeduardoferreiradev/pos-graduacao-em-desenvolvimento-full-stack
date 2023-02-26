@@ -13,7 +13,6 @@ Nesta aula, avançaremos nossos estudos para conhecer um tipo de armazenamento d
 * Reconhecer os tipos de estruturas de dados e suas operações.
 * Compreender o processo iterativo de manipulação de dados.
 * Diferenciar vetores e matrizes.
- 
 
 ## **Resumo**
 
@@ -35,8 +34,9 @@ Agora, suponha que você precisa entregar uma encomenda no quarto andar do préd
 
 Agora, considere um caso em que, em um sistema de boletim escolar, a professora precisa guardar quatro notas trimestrais dos alunos Carlos e Bia. Podemos fazer de duas formas:
 
-Primeira (menos eficiente): criar quatro variáveis de nota para a Bia e quatro variáveis de nota para o Carlos.
-Segundo (mais eficiente): criar um vetor de notas para a Bia e outro vetor de notas para o Carlos. Cada vetor pode receber quatro notas no máximo.
+* _**Primeira (menos eficiente):**_ criar quatro variáveis de nota para a Bia e quatro variáveis de nota para o Carlos.
+* _**Segundo (mais eficiente):**_ criar um vetor de notas para a Bia e outro vetor de notas para o Carlos. Cada vetor pode receber quatro notas no máximo.
+
 Ou seja, para cada aluno podemos inserir os valores de suas respectivas notas. Observe o código a seguir escrito na linguagem Java onde estamos manipulando apenas as notas de Carlos.
 
 ```java
@@ -93,8 +93,9 @@ As idades estão contidas em cada uma das posições, por exemplo, na posição 
 
 Como podemos fazer para mostrar na tela todos estes valores? Temos duas possibilidades.
 
-Mandar imprimir posição por posição utilizando o comando de saída do Java. Esta não é a melhor ideia, afinal, se o vetor tiver mil posições, teremos mil instruções de entrada e saída, o que gera um enorme trabalho.
-Outra possibilidade é utilizar uma estrutura de repetição, a qual irá iterar ou percorrer o vetor e apresentar os dados contidos em cada índice.
+* Mandar imprimir posição por posição utilizando o comando de saída do Java. Esta não é a melhor ideia, afinal, se o vetor tiver mil posições, teremos mil instruções de entrada e saída, o que gera um enorme trabalho.
+* Outra possibilidade é utilizar uma estrutura de repetição, a qual irá iterar ou percorrer o vetor e apresentar os dados contidos em cada índice.
+
 Observe com atenção o código 3 a seguir, nele temos a primeira possibilidade de apresentar os dados do vetor.
 
 ```java
@@ -149,15 +150,14 @@ Vetores e matrizes são conceitos simples, mas essenciais na programação Java.
 
 Existem quatro características principais de um vetor:
 
-Alocação dinâmica: Em um array (como o ArrayList, por exemplo), a memória é criada dinamicamente, o que reduz a quantidade de armazenamento necessária para o código.
-Alocação estática (ocupa local contíguo): Os elementos nos vetores e matrizes são armazenados em posições adjacentes (como visto nesta aula). Isso torna mais fácil para o usuário encontrar as localizações de seus elementos.
-Elementos armazenados em um único nome: Todos os elementos são armazenados em um único nome. Este nome é usado sempre que usamos um vetor.
-Você pode compreender mais sobre vetores acessando a documentação oficial do Java presente em <https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html>. (acesso em 08/11/2022)
+* _**Alocação dinâmica:**_ Em um array (como o ArrayList, por exemplo), a memória é criada dinamicamente, o que reduz a quantidade de armazenamento necessária para o código.
+* _**Alocação estática (ocupa local contíguo):**_ Os elementos nos vetores e matrizes são armazenados em posições adjacentes (como visto nesta aula). Isso torna mais fácil para o usuário encontrar as localizações de seus elementos.
+* _**Elementos armazenados em um único nome:**_ Todos os elementos são armazenados em um único nome. Este nome é usado sempre que usamos um vetor.
 
- 
+Você pode compreender mais sobre vetores acessando a documentação oficial do Java presente em <https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html>. (acesso em 08/11/2022)
 
 **Referência Bibliográfica**
 
-FORBELLONE, A. L. V.; EBERSPACHER, H. F. **Lógica de programação: a construção de algoritmos e estruturas de dados.** São Paulo: Prentice Hall, 2005.
+FORBELLONE, A. L. V.; EBERSPACHER, H. F. _**Lógica de programação: a construção de algoritmos e estruturas de dados.**_ São Paulo: Prentice Hall, 2005.
 
-MANZANO, J. A. N. G. **Algoritmos: lógica para desenvolvimento de programação de computadores.** 28. ed. São Paulo: Érica, 2016.
+MANZANO, J. A. N. G. _**Algoritmos: lógica para desenvolvimento de programação de computadores.**_ 28. ed. São Paulo: Érica, 2016.
