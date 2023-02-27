@@ -9,8 +9,9 @@ IV. A classe possui os métodos os quais representam as características que des
 
 Estão corretas apenas as afirmativas.
 
-a - I e II, apenas
-b - II e III, apenas
-c - II e IV, apenas
-d - III e IV, apenas
-e - I e IV, apenas
+🔲 
+🔳 a - I e II, apenas
+🔳 b - II e III, apenas
+🔳 c - II e IV, apenas
+🔳 d - III e IV, apenas
+🔳 e - I e IV, apenas
