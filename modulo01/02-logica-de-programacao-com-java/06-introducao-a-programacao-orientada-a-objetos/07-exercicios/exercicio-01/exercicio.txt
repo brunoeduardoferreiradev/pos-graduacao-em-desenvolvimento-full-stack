@@ -1,0 +1,16 @@
+Java é uma linguagem de programação orientada a objetos (POO) baseada em classes construída em torno do conceito de objetos. Os conceitos POO destinam-se a melhorar a legibilidade e a reutilização do código, definindo como estruturar seu programa Java de forma eficiente.
+
+A partir desta definição, analise as afirmativas a seguir.
+
+I. A classe é definida como uma representação de um grupo de coisas, como classe Cachorro, classe Carro, entre outras.
+II. O objeto é uma instância de uma classe, logo, a classe Carro pode ter o objeto carro1 ou carro2, sempre referenciados por variáveis.
+III. A classe possui variáveis que representam os atributos que, em outras palavras, são as ações que um objeto pode realizar.
+IV. A classe possui os métodos os quais representam as características que descrevem as classes.
+
+Estão corretas apenas as afirmativas.
+
+a - I e II, apenas
+b - II e III, apenas
+c - II e IV, apenas
+d - III e IV, apenas
+e - I e IV, apenas
