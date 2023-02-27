@@ -1,0 +1,8 @@
+Na linguagem Java, se você deixar de criar um construtor para uma classe, o que ocorrerá? Assinale a alternativa correta.
+
+🔲 
+🔳 a - A classe existirá sem um construtor.
+🔳 b - O objeto deixará de ter um estado válido
+🔳 c - O Java será responsável por criar um método construtor automaticamente.
+🔳 d - O objeto só pode ser instanciado se tiver um construtor
+🔳 e - A classe será compilada com erros
