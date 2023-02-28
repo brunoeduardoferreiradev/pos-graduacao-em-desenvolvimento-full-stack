@@ -1,4 +1,5 @@
 # **Estruturas de Repetição**
+
 ## **Introdução**
 
 Na programação de computadores, uma estrutura de repetição é uma sequência de instruções que é repetida continuamente até que uma determinada condição seja alcançada. Normalmente, um determinado processo é feito, como obter um item de dados e alterá-lo, e então alguma condição é verificada, como se um contador atingiu um número prescrito. Se não tiver, a próxima instrução na sequência é uma instrução para retornar à primeira instrução na sequência e repetir a sequência. Se a condição foi alcançada, o fluxo do programa será direcionado para a próxima instrução sequencial ou desvia para fora do loop. Uma estrutura de repetição é uma ideia fundamental de programação que é comumente usada na escrita de programas.
@@ -7,10 +8,10 @@ Deste modo, nesta aula estudaremos os principais conceitos relacionados a estrut
 
 ## **Objetivos da aula**
 
-* Compreender o conceito de controle de fluxo de código.
-* Reconhecer os tipos de estruturas de repetição.
-* Compreender cada tipo de estrutura de controle de fluxo.
-* Diferenciar as estruturas de repetição for, while e aninhada.
+- Compreender o conceito de controle de fluxo de código.
+- Reconhecer os tipos de estruturas de repetição.
+- Compreender cada tipo de estrutura de controle de fluxo.
+- Diferenciar as estruturas de repetição for, while e aninhada.
 
 ## **Resumo**
 
@@ -29,6 +30,7 @@ while (contador < 10){                                    // Linha 3
 }                                                         // Linha 6
 System.out.println(“Fim”);                                // Linha 7
 ```
+
 **Código 1 – Exemplo de aplicação da estrutura de repetição while**
 
 Fonte: Elaborado pelo autor
@@ -50,17 +52,18 @@ for(int i=0; i<10; i++)                 // Linha 4
    System.out.println(“Valor : “ + i);  // Linha 6
 }                                       // Linha 7
 ```
+
 **Código 2 – Exemplo de aplicação da estrutura de repetição for**
 
 Fonte: Elaborado pelo autor
 
 Observe pelo código 2 que a partir da linha 4 foi definido o laço de repetição for. Sua estrutura, assim como em outras linguagens é: a palavra reservada for, com os atributos:
 
-* **inicialização do laço** (neste caso, uma variável inteira i começando com o valor zero). Esta variável pode ter qualquer nome, respeitando sempre os critérios de nomenclatura;
+- **inicialização do laço** (neste caso, uma variável inteira i começando com o valor zero). Esta variável pode ter qualquer nome, respeitando sempre os critérios de nomenclatura;
 
-* **condição de parada** (neste caso, enquanto o laço for menor que 10). A condição de parada pode utilizar os operadores relacionais de maior, menor, maior ou igual a ou menor ou igual a;
+- **condição de parada** (neste caso, enquanto o laço for menor que 10). A condição de parada pode utilizar os operadores relacionais de maior, menor, maior ou igual a ou menor ou igual a;
 
-* **incremento ou decremento** (neste caso, estamos incrementando o laço de 1 em um, afinal, i++ é o mesmo que i = i + 1).
+- **incremento ou decremento** (neste caso, estamos incrementando o laço de 1 em um, afinal, i++ é o mesmo que i = i + 1).
 
 Note então que toda estrutura de repetição, seja ela for ou while, necessita de ter uma condição de parada, caso contrário, aquele escopo de código ficará em execução por tempo indeterminado, logo, se você esquecer de colocar uma condição de parada, certamente terá grandes problemas com seu programa.
 
@@ -75,14 +78,15 @@ Em um loop aninhado, a primeira iteração do loop externo faz com que o loop in
 ```java
 
 for(int i=0; i<3; i++)       // Linha 1
-{                            // Linha 2 
+{                            // Linha 2
    for(int j=0; j<=3; j++)   // Linha 3
    {                         // Linha 4
       System.out.print(j);   // Linha 5
    }                         // Linha 6
    System.out.println("\n"); // Linha 7
 }                            // Linha 8
-``` 
+```
+
 **Código 3 – Exemplo de aplicação da estrutura de repetição aninhada**
 
 Fonte: Elaborado pelo autor
@@ -93,14 +97,11 @@ A instrução da linha 5 será executada 4 vezes (para j igual a zero, igual a 1
 
 Por fim, cabe ressaltar que um loop ou estrutura de repetição é um comando que tende a se repetir para obter o resultado desejado. Em outras palavras, um comando de programação que se repete em um número conhecido de vezes (quando temos o loop for) ou o número desconhecido de vezes (quando temos o laço while) para atender a certas condições.
 
-
 ## **Tópicos avançados**
 
 As estruturas de repetição são utilizadas em diferentes cenários e certamente você se deparará com muitas delas em sua jornada como programador.
 
 Considere criar um programa que seja responsável por receber o nome dos cinco melhores filmes ou séries que você já assistiu. Observe que para cada filme você necessitará de uma variável diferente para armazenar os valores na memória do computador. Após digitar o nome dos filmes ou séries, experimente mostrá-los na tela. Importante: somente com a prática você obterá a proficiência em programação.
-
- 
 
 ## Referência Bibliográfica
 

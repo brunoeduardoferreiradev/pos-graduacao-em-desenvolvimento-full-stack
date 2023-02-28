@@ -1,4 +1,5 @@
 # **Vetores e matrizes**
+
 ## **Introdução**
 
 A maioria dos programas (para não se dizer todos) manipulam dados de diferentes tipos, sejam números, texto ou valores booleanos. Todos estes dados ficam armazenados em memória. No código-fonte, nos referenciamos a estas posições de memória através do conceito de variáveis.
@@ -9,10 +10,10 @@ Nesta aula, avançaremos nossos estudos para conhecer um tipo de armazenamento d
 
 ## **Objetivos da aula**
 
-* Compreender o conceito de estrutura de dados.
-* Reconhecer os tipos de estruturas de dados e suas operações.
-* Compreender o processo iterativo de manipulação de dados.
-* Diferenciar vetores e matrizes.
+- Compreender o conceito de estrutura de dados.
+- Reconhecer os tipos de estruturas de dados e suas operações.
+- Compreender o processo iterativo de manipulação de dados.
+- Diferenciar vetores e matrizes.
 
 ## **Resumo**
 
@@ -22,7 +23,7 @@ Em uma rua, se uma casa representa uma posição de memória onde guardamos um �
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/125761885/221376723-d5c81856-1b6b-4e9e-82d2-3ecc07d0a5d6.png" />
-</div> 
+</div>
 
 _**Figura 1 - Rua representando uma memória com variáveis simples e compostas Fonte: Elaborado pelo autor**_
 
@@ -34,8 +35,8 @@ Agora, suponha que você precisa entregar uma encomenda no quarto andar do préd
 
 Agora, considere um caso em que, em um sistema de boletim escolar, a professora precisa guardar quatro notas trimestrais dos alunos Carlos e Bia. Podemos fazer de duas formas:
 
-* _**Primeira (menos eficiente):**_ criar quatro variáveis de nota para a Bia e quatro variáveis de nota para o Carlos.
-* _**Segundo (mais eficiente):**_ criar um vetor de notas para a Bia e outro vetor de notas para o Carlos. Cada vetor pode receber quatro notas no máximo.
+- _**Primeira (menos eficiente):**_ criar quatro variáveis de nota para a Bia e quatro variáveis de nota para o Carlos.
+- _**Segundo (mais eficiente):**_ criar um vetor de notas para a Bia e outro vetor de notas para o Carlos. Cada vetor pode receber quatro notas no máximo.
 
 Ou seja, para cada aluno podemos inserir os valores de suas respectivas notas. Observe o código a seguir escrito na linguagem Java onde estamos manipulando apenas as notas de Carlos.
 
@@ -52,6 +53,7 @@ media = (notasCarlos[0] + notasCarlos[1] + notasCarlos[2] + notasCarlos[3])/4; /
                                                                                // Linha 10
 System.out.println(“A média de notas do Carlos é: “ + media);                  // Linha 11
 ```
+
 _**Código 1 – Exemplo de declaração e uso de vetores**_
 
 Fonte: Elaborado pelo autor
@@ -65,7 +67,7 @@ Em seguida, nas linhas 4, 5, 6 e 7 colocamos os valores em cada uma das posiçõ
 Também podemos iniciar um vetor indicando diretamente os valores que ele vai receber. Observe com atenção o código 2 a seguir.
 
 ```java
-double[] notasCarlos = {4, 8, 6, 8}                                            // Linha 1 
+double[] notasCarlos = {4, 8, 6, 8}                                            // Linha 1
 double media;                                                                  // Linha 2
                                                                                // Linha 3
 media = (notasCarlos[0] + notasCarlos[1] + notasCarlos[2] + notasCarlos[3])/4; // Linha 4
@@ -73,6 +75,7 @@ media = (notasCarlos[0] + notasCarlos[1] + notasCarlos[2] + notasCarlos[3])/4; /
 System.out.println(“A média de notas do Carlos é: “ + media);                  // Linha 6
 
 ```
+
 _**Código 2 – Declarando um vetor e passando valores**_
 
 Fonte: Elaborado pelo autor
@@ -86,15 +89,14 @@ Agora considere que temos um array com a idade de 10 alunos. As idades são esta
 </div> 
 _**Figura 2 - Array unidimensional ou vetor Fonte: Elaborado pelo autor (2021)**_
 
-
 Na figura 2 nós temos os índices ilustrados pelos valores de 0 a 9. Considere o índice como sendo o andar do prédio ou, em outras palavras, como sendo a posição do valor (da idade) no vetor.
 
 As idades estão contidas em cada uma das posições, por exemplo, na posição 2 do vetor idade temos o valor 14; na posição 7 do vetor idade temos o valor 15, e assim por diante.
 
 Como podemos fazer para mostrar na tela todos estes valores? Temos duas possibilidades.
 
-* Mandar imprimir posição por posição utilizando o comando de saída do Java. Esta não é a melhor ideia, afinal, se o vetor tiver mil posições, teremos mil instruções de entrada e saída, o que gera um enorme trabalho.
-* Outra possibilidade é utilizar uma estrutura de repetição, a qual irá iterar ou percorrer o vetor e apresentar os dados contidos em cada índice.
+- Mandar imprimir posição por posição utilizando o comando de saída do Java. Esta não é a melhor ideia, afinal, se o vetor tiver mil posições, teremos mil instruções de entrada e saída, o que gera um enorme trabalho.
+- Outra possibilidade é utilizar uma estrutura de repetição, a qual irá iterar ou percorrer o vetor e apresentar os dados contidos em cada índice.
 
 Observe com atenção o código 3 a seguir, nele temos a primeira possibilidade de apresentar os dados do vetor.
 
@@ -107,6 +109,7 @@ System.out.println(“Idade “, idade[3]); // Linha 6
 System.out.println(“Idade “, idade[4]); // Linha 7
 ...
 ```
+
 _**Código 3 – Apresentando os dados sequencialmente na tela**_
 
 Fonte: Elaborado pelo autor
@@ -122,6 +125,7 @@ for(int i = 0; i < 10; i++){                   // Linha 3
    System.out.println(“Idade: ” + idade[i]);   // Linha 4
  }                                             // Linha 5
 ```
+
 _**Código 4 – Utilizando estrutura de repetição para percorrer o vetor**_
 
 Fonte: Elaborado pelo autor.
@@ -136,7 +140,7 @@ Quando trabalhamos com vetores, temos uma única dimensão, ou seja, uma única 
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/125761885/221376825-5beee987-2680-48c9-b7a4-ed745e3c2b04.png" />
-</div> 
+</div>
 
 _**Figura 3 – Uma estrutura de dados do tipo matriz ou array multidimensional Fonte: Elaborado pelo autor.**_
 
@@ -150,9 +154,9 @@ Vetores e matrizes são conceitos simples, mas essenciais na programação Java.
 
 Existem quatro características principais de um vetor:
 
-* _**Alocação dinâmica:**_ Em um array (como o ArrayList, por exemplo), a memória é criada dinamicamente, o que reduz a quantidade de armazenamento necessária para o código.
-* _**Alocação estática (ocupa local contíguo):**_ Os elementos nos vetores e matrizes são armazenados em posições adjacentes (como visto nesta aula). Isso torna mais fácil para o usuário encontrar as localizações de seus elementos.
-* _**Elementos armazenados em um único nome:**_ Todos os elementos são armazenados em um único nome. Este nome é usado sempre que usamos um vetor.
+- _**Alocação dinâmica:**_ Em um array (como o ArrayList, por exemplo), a memória é criada dinamicamente, o que reduz a quantidade de armazenamento necessária para o código.
+- _**Alocação estática (ocupa local contíguo):**_ Os elementos nos vetores e matrizes são armazenados em posições adjacentes (como visto nesta aula). Isso torna mais fácil para o usuário encontrar as localizações de seus elementos.
+- _**Elementos armazenados em um único nome:**_ Todos os elementos são armazenados em um único nome. Este nome é usado sempre que usamos um vetor.
 
 Você pode compreender mais sobre vetores acessando a documentação oficial do Java presente em <https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html>. (acesso em 08/11/2022)
 
