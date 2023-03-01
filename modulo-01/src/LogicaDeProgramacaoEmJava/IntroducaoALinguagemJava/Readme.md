@@ -6,15 +6,12 @@ Durante todo o dia nós nos deparamos com algoritmos, desde quando acordamos at�
 
 Algoritmo então não é apenas programação, mas também pode ser utilizado na programação de computadores. Deste modo, nesta aula você compreenderá os conceitos essenciais para o desenvolvimento de algoritmos e programação com a linguagem Java. Também verá que existem diversas ferramentas para o desenvolvimento de códigos. No final, conhecerá os principais conceitos relacionados a programação.
 
-
-
 ## **Objetivos da aula**
 
-Compreender o conceito de variáveis e os dados que elas armazenam.
-Reconhecer o tipo String e sua distinção com os demais tipos de dados.
-Compreender as operações de entrada e saída de dados.
-Conhecer os operadores aritméticos e como podem ser empregados em um algoritmo.
-
+* Compreender o conceito de variáveis e os dados que elas armazenam.
+* Reconhecer o tipo String e sua distinção com os demais tipos de dados.
+* Compreender as operações de entrada e saída de dados.
+* Conhecer os operadores aritméticos e como podem ser empregados em um algoritmo.
 
 ## **Resumo**
 
@@ -32,23 +29,26 @@ Agora, considere o exemplo em que lhe é dada a sequência numérica: 1  1  2  3
 
 Como definir qual será o próximo número da sequência? Neste caso, o próximo valor é o 21. Isso pode ser afirmado pois o valor atual é sempre a soma dos dois números anteriores:
 
-3 + 2 = 5;
-5 + 3 = 8;
-5 + 8 = 13;
-13 + 8 = 21.
+* 3 + 2 = 5;
+* 5 + 3 = 8;
+* 5 + 8 = 13;
+* 13 + 8 = 21.
+* 
 Agora, considere a seguinte sequência numérica: 66  36  18  ?. Como definir qual será o próximo número desta sequência? Neste caso, o próximo valor é o 8. Isso pode ser afirmado pois o valor seguinte é sempre o resultado da multiplicação da dezena pela unidade do número anterior, observe:
 
-Partindo do 66, temos 6*6 = 36;
-3*6 = 18;
-1*8 = 8.
-Para estes dois últimos exemplos, observe que estipulamos (para cada um deles) uma sequência fixa e finita de procedimentos que nos leva até o resultado.
+* Partindo do 66, temos 6*6 = 36;
+* 3*6 = 18;
+* 1*8 = 8.
+
+Para estes dois últimos exemplos, observe que estipulamos (para cada um deles) uma **sequência fixa e finita de procedimentos** que nos leva até o resultado.
 
 Podemos então concluir que um algoritmo deve possuir as seguintes características:
 
-Cada passo do algoritmo deve ser uma instrução possível de ser realizada: considere o exemplo da viagem de Campinas até São Paulo. Existe uma sequência lógica de instruções e todas elas precisam ser executadas, se uma destas instruções não ocorrer, o algoritmo não será executado corretamente;
-A ordem de cada uma das instruções deve ser respeitada: observe o segundo exemplo, nele o valor de um número X é obtido somando os dois valores anteriores a ele em uma sequência numérica. Se esta instrução não for obedecida (ou seja, se não somarmos o valor atual com o valor anterior para obter o próximo da sequência), o resultado não será conforme o esperado;
-O algoritmo deve ser finito: considere ainda o segundo exemplo. O algoritmo é: para obter um valor X devemos somar os dois valores imediatamente anteriores. Observe que, apesar de ser possível obter uma sequência infinita de valores, o algoritmo é finito em suas instruções. O mesmo ocorre com os demais exemplos apresentados.
-**Mas como podemos representar os algoritmos?** Tudo vai depender da proposta. Podemos representar os algoritmos por **pseudocódigo**, que é uma forma de escrever código de programação, porém em um código fictício, geralmente escrito em português. Outra maneira é a **narrativa**, ou seja, se alguém lhe perguntar: como faço para ir de São Paulo até Belo Horizonte, você indicará o caminho a seguir. Logo, você está narrando um passo a passo, ou seja, uma sequência de instruções. Os algoritmos também podem ser representados no formato de **fluxogramas**, que são formas geométricas ligadas por uma linha.
+* Cada passo do algoritmo deve ser uma instrução possível de ser realizada: considere o exemplo da viagem de Campinas até São Paulo. Existe uma sequência lógica de instruções e todas elas precisam ser executadas, se uma destas instruções não ocorrer, o algoritmo não será executado corretamente;
+* A ordem de cada uma das instruções deve ser respeitada: observe o segundo exemplo, nele o valor de um número X é obtido somando os dois valores anteriores a ele em uma sequência numérica. Se esta instrução não for obedecida (ou seja, se não somarmos o valor atual com o valor anterior para obter o próximo da sequência), o resultado não será conforme o esperado;
+* O algoritmo deve ser finito: considere ainda o segundo exemplo. O algoritmo é: para obter um valor X devemos somar os dois valores imediatamente anteriores. Observe que, apesar de ser possível obter uma sequência infinita de valores, o algoritmo é finito em suas instruções. O mesmo ocorre com os demais exemplos apresentados.
+
+* **Mas como podemos representar os algoritmos?** Tudo vai depender da proposta. Podemos representar os algoritmos por **pseudocódigo**, que é uma forma de escrever código de programação, porém em um código fictício, geralmente escrito em português. Outra maneira é a **narrativa**, ou seja, se alguém lhe perguntar: como faço para ir de São Paulo até Belo Horizonte, você indicará o caminho a seguir. Logo, você está narrando um passo a passo, ou seja, uma sequência de instruções. Os algoritmos também podem ser representados no formato de **fluxogramas**, que são formas geométricas ligadas por uma linha.
 
 Porém, na programação de computadores, **os algoritmos são representados em uma linguagem própria chamada de linguagem de programação**. Uma linguagem de programação é uma notação projetada para conectar instruções a uma máquina ou um computador (FORBELLONE, 2005). As linguagens de programação são usadas principalmente para expressar algoritmos, sendo que algumas delas são utilizadas para objetivos gerais e outras para fins específicos. Muitas destas linguagens precisam ser declaradas de forma imperativa, enquanto outras linguagens de programação utilizam a forma declarativa. O programa pode ser dividido em duas formas, como sintaxe e semântica.
 
@@ -92,7 +92,6 @@ Assim como em outras linguagens, em Java as strings são identificadas como uma 
 ## **Tópicos avançados**
 
 Algoritmos, abstração, decomposição e reconhecimento de padrões são pilares do chamado Pensamento Computacional. Pensar computacionalmente não é o mesmo que pensar como um computador, mas sim, pensar racionalmente para resolver problemas. Você pode compreender mais sobre pensamento computacional lendo o artigo Pensamento Computacional na educação básica acessando o link: <http://ojs.sector3.com.br/index.php/rbie/article/view/v29p604>.
-
 
 Referência Bibliográfica
 
