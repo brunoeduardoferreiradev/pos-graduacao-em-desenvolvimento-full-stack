@@ -1,0 +1,9 @@
+Exercício 04
+
+No desenvolvimento de softwares, as linguagens de programação em geral como Java, entre outras, possuem operadores aritméticos com a mesma função dos operadores da matemática, cada qual com suas ações específicas. Com estes operadores, podemos realizar as operações matemáticas básicas como soma, subtração, multiplicação e divisão, bem como outros tipos de operações. Um exemplo de uso da potência do tipo quatro ao cubo ou quatro elevado a três (4³) em Java está descrito na instrução:
+
+- ✅ - a - total = 4 * 4 * 4
+- 🔳 - b - total = 4^3
+- 🔳 - c - total = 4³
+- 🔳 - d - total = 4 % 3
+- 🔳 - e - total = cubo(4)
