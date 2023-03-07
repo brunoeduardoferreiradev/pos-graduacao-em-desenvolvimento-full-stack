@@ -33,7 +33,7 @@ Classes são tipos de dados definidos pelo usuário para serem usados como model
 * **Corpo:** Corpo cercado por chaves, { }.
 * **Uma palavra-chave class** é usada para criar uma classe. Uma forma geral simplificada da definição de classe é dada no código 1 a seguir.
 
-
+![image](https://user-images.githubusercontent.com/125761885/223311974-eb31abcf-e4a1-44b5-a695-bc1334408206.png)
 
 _**Código 1 – Exemplo de estrutura de uma classe | Fonte: Elaborado pelo autor**_
 
@@ -50,9 +50,7 @@ Quando tratamos os animais como objetos, tem estados como cor, nome, raça etc.,
 
 Suponha que temos uma classe chamada MeuLivro, especificamos o nome da classe seguido pelo nome do objeto e usamos a palavra-chave new. Observe o código a seguir.
 
-
-
-
+![image](https://user-images.githubusercontent.com/125761885/223312069-5c827bd9-bd4b-4e37-8ef3-fa4322f0a4ee.png)
 
 Observe que no código 2 temos um atributo na linha 2 que é a variável x. Na linha 4 estamos instanciando ou criando um objeto. A sequência é: nome da classe, nome do objeto, sinal de igual, a palavra-chave new seguida pelo nome da classe. Por fim, na linha 5 estamos falando para o objeto livro mostrar o valor de seu atributo x. Utilizamos o ponto para ser mais específico nesta chamada.
 
