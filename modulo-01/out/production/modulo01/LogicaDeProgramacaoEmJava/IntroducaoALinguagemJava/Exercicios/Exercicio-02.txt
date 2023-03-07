@@ -1,0 +1,17 @@
+Exercício 02
+
+Embora não haja uma maneira definitiva de classificar ou agrupar os tipos de linguagens de programação, uma abordagem comum é dividi-los em estilos de programação ou, formalmente definido, em paradigmas.
+Considerando esse contexto, avalie as seguintes asserções e a relação proposta entre elas.
+
+I. Uma característica da linguagem imperativa é que ela consiste em várias instruções que são executadas sequencialmente, passo a passo.
+PORQUE
+
+II. Linguagens do paradigma imperativo expressam comandos para o computador executar, se concentrando no processo explícito de o que um programa deve fazer e como este programa deve fazer
+Sobre a relação entre as asserções, é correto afirmar que:
+
+
+- 🔳 - a - As asserções I e II são proposições falsas
+- 🔳 - b - A asserção I é uma proposição falsa, e a II é uma proposição verdadeira
+- 🔳 - c - A asserção I é uma proposição verdadeira, e a II é uma proposição falsa
+- 🔳 - d - As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I
+- ✅ - e - As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I
