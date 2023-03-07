@@ -1,0 +1,8 @@
+Exercício 01
+Apesar de parecer um conceito longe de nossa realidade e, em muitos casos, ser associado a programação de computadores, os algoritmos estão contidos em nosso cotidiano em diversos momentos e em diversas atividades do dia. Sobre os algoritmos, marque a alternativa que corretamente os define.
+
+- 🔳 - a - Nas embalagens de produtos diversos, o item modo de usar é um exemplo de algoritmo em pseudocódigo
+- 🔳 - b - O algoritmo é uma sequência com quantidade indeterminada de instruções com o objetivo de resolver um problema
+- 🔳 - c - Fluxograma ou diagramas de sequência são exemplos de representações de um algoritmo
+- ✅ - d - Cada instrução de um algoritmo deve ser executada em uma ordem específica para resolver um problema computacional ou não
+- 🔳 - e - Fluxograma e diagramas de sequência são exemplos de representações gráficas visuais de um algoritmo
