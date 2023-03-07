@@ -30,7 +30,7 @@ A abstração nos permite fornecer uma interface simples para um usuário sem so
 
 A herança é um dos aspectos mais importantes da Programação Orientada a Objetos. A chave para entender a herança é que ela fornece reutilização de código. Em vez de escrever o mesmo código repetidamente, podemos simplesmente herdar as propriedades de uma classe na outra. Trata-se de um relacionamento entre uma superclasse (classe generalizada) e uma subclasse (classe especializada), onde a subclasse herda dados e comportamentos da superclasse. Com isso, podemos afirmar que a herança representa a relação “é um”. Observe um exemplo na figura 1.
 
-
+![image](https://user-images.githubusercontent.com/125761885/223315622-3778afc1-6504-4136-ae46-61eca9f18190.png)
 
 Figura 1 – Exemplo de relação de herança Fonte: Elaborado pelo autor.
 
@@ -47,7 +47,7 @@ Apesar de não ser um dos principais princípios de POO, a composição é defin
 
 Comparando herança e composição, observe a figura 2 a seguir.
 
-
+![image](https://user-images.githubusercontent.com/125761885/223315636-38a42e7f-e9fe-4810-a4eb-fd92171e2021.png)
 
 Figura 2 – Herança e Composição Fonte: Elaborado pelo autor
 
