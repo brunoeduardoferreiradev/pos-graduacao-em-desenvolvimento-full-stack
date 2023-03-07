@@ -1,0 +1,9 @@
+Exercício 03
+
+Um algoritmo representa um conjunto de instruções para que algo seja feito. Uma receita, uma bula de remédio ou um manual de instruções são considerados algoritmos descritivos, uma vez que descrevem passo a passo o que deve ser feito e como deve ser feito. Quais os tipos de representações mais comuns?
+
+- 🔳 - a - Código de programação, programas e fluxogramas
+- ✅ - b - Descrição narrativa, fluxograma e pseudocódigo
+- 🔳 - c - Pseudocódigo, código de programação e programas
+- 🔳 - d - Fluxograma, pseudocódigo e programas
+- 🔳 - e - Descrição narrativa, pseudocódigo e programas
