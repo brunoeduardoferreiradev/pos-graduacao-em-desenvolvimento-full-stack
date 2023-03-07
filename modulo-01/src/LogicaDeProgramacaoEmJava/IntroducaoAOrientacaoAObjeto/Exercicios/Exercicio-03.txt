@@ -1,4 +1,4 @@
-Exercício 02
+Exercício 03
 Na linguagem Java, se você deixar de criar um construtor para uma classe, o que ocorrerá? Assinale a alternativa correta.
 
 - 🔳 - a - A classe existirá sem um construtor.
