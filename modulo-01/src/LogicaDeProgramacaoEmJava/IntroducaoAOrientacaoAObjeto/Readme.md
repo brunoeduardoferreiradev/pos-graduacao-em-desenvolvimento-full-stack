@@ -33,7 +33,7 @@ Classes são tipos de dados definidos pelo usuário para serem usados como model
 * **Corpo:** Corpo cercado por chaves, { }.
 * **Uma palavra-chave class** é usada para criar uma classe. Uma forma geral simplificada da definição de classe é dada no código 1 a seguir.
 
-
+![image](https://user-images.githubusercontent.com/125761885/223311974-eb31abcf-e4a1-44b5-a695-bc1334408206.png)
 
 _**Código 1 – Exemplo de estrutura de uma classe | Fonte: Elaborado pelo autor**_
 
