@@ -4,7 +4,7 @@
 A programação orientada a objetos (POO) é um núcleo da programação Java, que é usada para projetar um programa usando classes e objetos. POO também podem ser caracterizados como controle de dados para acesso ao código. Nesta abordagem, os programadores definem o tipo de dados de uma estrutura de dados e as operações que são aplicadas à estrutura de dados.
 
 Nesta aula, vamos aprender sobre os conceitos básicos de POO em java. A programação orientada a objetos é um modelo que fornece diferentes tipos de conceitos, como herança, abstração, polimorfismo, entre outros. Esses conceitos visam implementar entidades do mundo real em programas, e criam métodos de trabalho e variáveis ​​para reutilizá-los sem comprometer a segurança. Muitas das linguagens de programação orientadas a objetos mais utilizadas e significativas incluem Java, C++, C#, JavaScript, Python, Ruby, Perl, Smalltalk etc.
-
+ 
 ## **Objetivos da aula**
 
 * Compreender o conceito de programação orientada a objetos.
