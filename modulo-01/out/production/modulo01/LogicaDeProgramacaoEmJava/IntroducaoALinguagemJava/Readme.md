@@ -33,7 +33,8 @@ Como definir qual será o próximo número da sequência? Neste caso, o próximo
 * 5 + 3 = 8;
 * 5 + 8 = 13;
 * 13 + 8 = 21.
-* 
+
+
 Agora, considere a seguinte sequência numérica: 66  36  18  ?. Como definir qual será o próximo número desta sequência? Neste caso, o próximo valor é o 8. Isso pode ser afirmado pois o valor seguinte é sempre o resultado da multiplicação da dezena pela unidade do número anterior, observe:
 
 * Partindo do 66, temos 6*6 = 36;

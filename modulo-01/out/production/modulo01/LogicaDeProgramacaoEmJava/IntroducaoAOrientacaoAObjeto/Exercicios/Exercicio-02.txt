@@ -1,0 +1,8 @@
+Exercício 02
+Em uma aplicação Java, um vetor de inteiro chamado vet foi criado por meio da instrução int vet=new int[5]; e inicializado com 5 valores inteiros. Para exibir o conteúdo da terceira posição deste vetor utiliza-se a instrução:
+
+- 🔳 - a - System.out.println(vet->2);
+- 🔳 - b - System.out.println(vet.2);
+- 🔳 - c - System.out.println(vet.3);
+- 🔳 - d - System.out.println(vet[3]);
+- ✅ - e - System.out.println(vet[2]);
