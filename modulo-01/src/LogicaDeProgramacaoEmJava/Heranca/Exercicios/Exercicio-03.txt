@@ -1,0 +1,15 @@
+Exercicio 03
+
+Digamos que um cachorro é um objeto do tipo animal e há várias coisas que podem ser associadas ao cachorro, como um cachorro pode ter uma cor, pode latir, andar, correr, entre outros. Também existem vários atributos relacionados a animal, como por exemplo, idade, tamanho, nome e sexo.
+
+A relação existente entre uma possível classe cachorro e uma classe animal é de:
+
+- ✅ - a - Herança, onde a classe cachorro herda as propriedades e ações da classe animal
+- 🔳 - b - Composição, onde o cachorro é composto de atributos e métodos da classe animal
+- 🔳 - c - Herança, onde a classe animal herda os atributos e métodos declarados na classe cachorro
+- 🔳 - d - Composição, onde a classe animal é composta de atributos da classe cachorro
+- 🔳 - e - Herança e composição, pois cachorro herda de animal e a classe animal compõem a classe cachorro
+
+Resposta Comentada :
+
+Letra A, pois na herança existe a relação do tipo é um. Um cachorro é um animal, logo, todas as características de um animal podem ser observadas em um cachorro.
