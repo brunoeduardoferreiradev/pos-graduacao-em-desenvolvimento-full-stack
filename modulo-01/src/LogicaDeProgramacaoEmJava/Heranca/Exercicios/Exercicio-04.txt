@@ -1,0 +1,17 @@
+Exercicio 04
+
+Um relacionamento é um significa que um objeto é um tipo de outro. Por outro lado, o relacionamento tem um significa que uma classe se relaciona com outra classe.
+
+Deste modo, é um e tem um são dois relacionamentos, respectivamente do tipo:
+
+Marque a alternativa correta.
+
+- 🔳 - a - Agregação e Herança
+- 🔳 - b - Composição e Agregação
+- 🔳 - c - Composição e Herança
+- 🔳 - d - Herança e Agregação
+- ✅ - e - Herança e Composição
+
+Resposta Comentada :
+
+Letra E, pois a herança é quando uma classe A herda as propriedades de uma classe B, logo, o objeto da classe A é do tipo classe B. Na composição, a classe A contém a referência da classe B e pode acessar todas as propriedades da classe B.
