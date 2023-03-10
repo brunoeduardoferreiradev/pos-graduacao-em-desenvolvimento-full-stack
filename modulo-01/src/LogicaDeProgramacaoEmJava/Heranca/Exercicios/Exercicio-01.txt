@@ -1,0 +1,10 @@
+A programação orientada a objetos (POO) gira em torno dos conceitos de objetos e classes. Em Java, as classes são referidas como modelos para os objetos enquanto os objetos são instâncias de uma classe.
+
+A partir desta definição, qual fundamento de POO permite ocultar os detalhes internos de um método?
+
+- 🔳 - a - Composição
+- 🔳 - b - Herança
+- 🔳 - c - Encapsulamento
+- ✅ - d - Abstração
+- 🔳 - e - Acoplamento
+
