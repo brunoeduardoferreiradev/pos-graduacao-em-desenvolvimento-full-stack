@@ -1,3 +1,5 @@
+Exercicio 02
+
 Em seu sentido mais amplo, herança refere-se ao processo de obtenção de propriedades. Um objeto em Programação Orientada a Objetos herda as propriedades de outro. Com a herança, os desenvolvedores podem:
 
 Marque a alternativa correta.
