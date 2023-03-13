@@ -1,4 +1,4 @@
-package jogoadivinha;
+package LogicaDeProgramacaoEmJava.EstruturasCondicionais.ExemploPraticoComEstruturasCondicionais;
 
 import java.util.Scanner;
 import java.util.Random;
