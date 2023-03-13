@@ -1,4 +1,4 @@
-package condicionalaninhada;
+package LogicaDeProgramacaoEmJava.EstruturasCondicionais.EstruturaCondicionalAninhada;
 
 public class Main {
 
