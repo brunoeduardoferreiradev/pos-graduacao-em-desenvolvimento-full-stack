@@ -1,4 +1,4 @@
-package switchcase;
+package LogicaDeProgramacaoEmJava.EstruturasCondicionais.EstruturaDeMultiplaEscolha;
 
 import java.util.Scanner;
 
