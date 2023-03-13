@@ -1,4 +1,4 @@
-package condicionalcomposta;
+package LogicaDeProgramacaoEmJava.EstruturasCondicionais.EstruturaCondicionalComposta;
 
 public class Main {
 
