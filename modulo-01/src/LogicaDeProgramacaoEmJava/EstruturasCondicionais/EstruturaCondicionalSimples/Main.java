@@ -1,4 +1,4 @@
-package condicionalsimples;
+package LogicaDeProgramacaoEmJava.EstruturasCondicionais.EstruturaCondicionalSimples;
 
 public class Main {
 
