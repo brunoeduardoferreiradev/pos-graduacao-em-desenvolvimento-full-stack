@@ -53,8 +53,7 @@ Os operadores de comparação, como o nome indica, compara um valor/expressão d
 
 Os operadores lógicos realizam uma conexão entre duas expressões, é o que se denomina Expressões Lógicas ou Expressões Booleanas. A tabela 1 a seguir apresenta um exemplo do uso dos operadores de comparação e operadores lógicos, bem como suas saídas em Java. Considere que a variável X possui o valor 4 e a variável Y possui o valor 8.
 
-
-
+![image](https://user-images.githubusercontent.com/125761885/224585677-bbb33f42-a27b-4e6f-a5b5-dd0bb2d4dd20.png)
 
 Observe que o operador && (operador e), para que tenha uma saída verdadeira, precisa que todas as expressões ligadas por este operador também sejam verdadeiras. Por outro lado, ao utilizar um operador || (operador ou), para que a saída seja verdadeira, basta que qualquer expressão tenha o valor verdadeiro.
 
