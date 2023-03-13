@@ -3,8 +3,6 @@ Polimorfismo é o núcleo da programação orientada a objetos. A maioria das li
 
 Embora a criação de referência polimórfica em Java seja fácil, o conceito por trás dela tem um impacto mais profundo na programação geral. Nesta aula veremos como o polimorfismo funciona e como podemos trabalhar com sobrecarga e sobrescrita de métodos na linguagem java.
 
-
-
 ## **Objetivos da aula**
 
 * Compreender o conceito de polimorfismo.
@@ -27,13 +25,11 @@ Portanto, se uma referência puder ser usada para invocar um método em um ponto
 
 Uma variável de referência refere-se a uma instância de uma classe. No caso de hierarquia de herança, um objeto de referência pode apontar para uma instância de qualquer classe na hierarquia, desde que a variável de referência seja declarada como o tipo de classe pai na árvore hierárquica. Isso significa que, em Java, como a classe Object é a classe pai ou superclasse de todas as classes ou, em outras palavras, todas as classes em Java são, de fato, subclasses da classe Object implícita ou explicitamente, uma variável de referência de o tipo Object pode se referir a qualquer instância de classe em Java. Vamos entender melhor com um exemplo da figura 1.
 
-
+![image](https://user-images.githubusercontent.com/125761885/224584491-7210ed02-745f-41bf-903c-21e92544c093.png)
 
 Figura 1 – Relação de herança entre a subclasse Cilindro e a superclasse Círculo Fonte: Elaborado pelo autor
 
 Na figura 1, podemos dizer que a classe cilindro é um círculo, afinal, existe uma relação de herança entre estas classes. Observe que em ambas classes temos um método chamado getArea(), mas qual a diferença entre eles? O objeto do tipo círculo, ao invocar o método getArea(), realizará o cálculo referente a área do círculo. Porém, o objeto do tipo cilindro, ao invocar o método getArea(), realizará o cálculo referente a área do cilindro. Note então que temos o polimorfismo, onde um método pode ter diferentes formas.
-
-
 
 ## **Sobrecarga de método (overloading)**
 
@@ -60,8 +56,6 @@ somar(float, int)
 
 Lista de argumentos e lista de parâmetros são iguais, mas são usadas em contextos diferentes, quando declaramos um método, os parâmetros são chamados de lista de parâmetros, enquanto chamamos o método o argumento que passamos são chamados de lista de argumentos.
 
-
-
 ## **Sobrescrita de método(overriding)**
 
 Declarar um método na subclasse que já está presente na classe pai é conhecido como sobrescrita ou substituição de método. A sobrescrita é feita para que uma classe filha possa dar sua própria implementação a um método que já é fornecido pela classe pai. Neste caso, o método na classe pai é chamado de método de sobrescrita e o método na classe filha é chamado de método de substituição (DEITEL, 2010).
@@ -76,13 +70,9 @@ A principal vantagem da sobrescrita de método é que a classe pode fornecer sua
 
 Isso é útil quando uma classe tem várias classes filhas, portanto, se uma classe filha precisar usar o método da classe pai, ela poderá usá-lo e as outras classes que desejam ter uma implementação diferente podem usar o recurso de sobrescrita para fazer alterações sem tocar no código da classe pai.
 
-
-
 ## **Tópicos avançados**
 
 Qual é a diferença entre sobrecarga de método e sobrescrita de método em Java? Esta é uma pergunta muito valiosa, muito importante e repetidamente feita em qualquer entrevista técnica sobre Java. O entrevistador sempre espera duas a três diferenças da sua resposta. Então, vamos começar com uma definição básica.
-
-
 
 ## **Quanto a definição**
 
@@ -90,15 +80,11 @@ Quando uma classe tem mais de um método com o mesmo nome, mas com parâmetros d
 
 Quando o método da superclasse é substituído na subclasse para fornecer uma implementação mais específica, ele é chamado de _**sobrescrita**_ de método em Java (DEITEL, 2010).
 
-
-
 ## **Quanto ao tipo de argumento**
 
 Quando uma classe tem mais de um método com o mesmo nome, mas com parâmetros diferentes, ela é chamada de sobrecarga de método em Java (DEITEL, 2010).
 
 Quando o método da superclasse é substituído na subclasse para fornecer uma implementação mais específica, ele é chamado de sobrescrita de método em Java (DEITEL, 2010).
-
-
 
 
 ## **Quanto a assinatura do método**
@@ -108,9 +94,6 @@ A assinatura do método **sobrecarregado** deve ser diferente.
 A assinatura do método de **sobrescrita** deve ser a mesma.
 
 Aqui foram apresentadas as diferenças básicas, porém, essenciais para qualquer entrevista de emprego ou trabalho no dia a dia como programador.
-
-
-
 
 
 Referência Bibliográfica
