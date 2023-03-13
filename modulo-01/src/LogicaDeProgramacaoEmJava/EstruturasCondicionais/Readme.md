@@ -19,6 +19,8 @@ Analisando de perto, temos uma sequência encadeada de instruções. Porém, e s
 
 Antes de começarmos a trabalhar o conceito de estrutura de decisão e também sobre estrutura de repetição, vamos entender um pouco mais sobre o fluxo de um algoritmo. Considere o algoritmo da figura 1 a seguir.
 
+![image](https://user-images.githubusercontent.com/125761885/224585626-8bb3c8ff-ee81-43a7-8bd4-2c5e7cdfee35.png)
+
 Figura 1 – Algoritmo com estrutura sequencial Fonte: Elaborado pelo autor
 
 Na figura 1, o algoritmo é responsável por declarar e receber três notas de um aluno, em seguida é realizado o cálculo para obter a média final. Por fim, a média é apresentada na tela para o usuário. Observe então que se trata de uma sequência linear de instruções. A esta sequência chamamos de _**fluxo.**_
