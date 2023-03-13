@@ -76,6 +76,7 @@ if(x>y){                                                         // Linha 02
 
 Observe que uma estrutura condicional é representada pela palavra-chave if, seguida de uma expressão lógica. O conteúdo da linha 3 só será apresentado na tela quando se o valor de x for maior que o valor da variável y. Porém, neste caso, não será apresentado nada, afinal, o valor de x não é maior que o valor de y. Neste caso, temos a opção de utilizar uma estrutura condicional composta como ilustra a figura 3 a seguir.
 
+![image](https://user-images.githubusercontent.com/125761885/224585750-4de82a0a-c9e4-4330-a6df-83889c7fda48.png)
 
 Figura 3 - Estrutura condicional aninhada e composta Fonte: Elaborado pelo autor
 
