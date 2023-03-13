@@ -1,4 +1,4 @@
-package logicos;
+package LogicaDeProgramacaoEmJava.EstruturasCondicionais.OperadoresLogicos;
 
 public class Main {
 
