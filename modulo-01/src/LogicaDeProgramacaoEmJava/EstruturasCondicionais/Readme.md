@@ -61,9 +61,8 @@ Agora que você conhece os operadores, a montagem das instruções e as saídas 
 
 A estrutura condicional if é a primeira que trabalharemos. O seu papel é dividir o fluxo do código. Observe o diagrama da figura 2.
 
+![image](https://user-images.githubusercontent.com/125761885/224585709-5796ed11-79da-4cae-a3c1-7596b0855b59.png)
 
-
-Figura 2 - Estrutura condicional if Fonte: Elaborado pelo autor
 Figura 2 - Estrutura condicional if Fonte: Elaborado pelo autor
 
 Observe na figura 2 o fluxo sequencial do algoritmo representado pela seta superior descendente. Em um dado momento, o fluxo de execução encontra uma estrutura de decisão (representado pelo losango). Nesta estrutura de decisão teremos uma expressão lógica ou uma comparação entre dois valores. Caso a condição seja falsa, o fluxo de execução continuará. Porém, caso a condição seja verdadeira, o fluxo do código será alterado, executando uma outra sequência de instruções (FORBELLONE, 2005). O código 1 a seguir ilustra o uso da estrutura if.
@@ -78,8 +77,6 @@ if(x>y){                                                         // Linha 02
 Observe que uma estrutura condicional é representada pela palavra-chave if, seguida de uma expressão lógica. O conteúdo da linha 3 só será apresentado na tela quando se o valor de x for maior que o valor da variável y. Porém, neste caso, não será apresentado nada, afinal, o valor de x não é maior que o valor de y. Neste caso, temos a opção de utilizar uma estrutura condicional composta como ilustra a figura 3 a seguir.
 
 
-
-Figura 3 - Estrutura condicional aninhada e composta Fonte: Elaborado pelo autor
 Figura 3 - Estrutura condicional aninhada e composta Fonte: Elaborado pelo autor
 
 Observe pela figura 3 que o fluxo do código estava sequencial em (a). Entretanto, em um primeiro momento ele encontrou uma condição if. Caso a expressão seja verdadeira, o fluxo do código seguirá em (b) e, assim, executará as instruções internas ao if, seguindo o fluxo (c) até concluir em (x). Podemos então atualizar o código 1 para o código 2 a seguir.
