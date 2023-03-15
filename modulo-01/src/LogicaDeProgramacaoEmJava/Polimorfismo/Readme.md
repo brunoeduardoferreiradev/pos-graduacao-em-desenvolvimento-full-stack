@@ -33,7 +33,7 @@ Na figura 1, podemos dizer que a classe cilindro é um círculo, afinal, existe 
 
 ## **Sobrecarga de método (overloading)**
 
-A Sobrecarga de Métodos é um recurso que permite que uma classe tenha vários métodos com o mesmo nome, mas com número, sequência ou tipo de parâmetros diferentes. Em resumo, vários métodos com o mesmo nome, mas com assinaturas diferentes. Por exemplo, a assinatura do método somar(int a, int b) com dois parâmetros int é diferente da assinatura do método somar(int a, int b, int c) com três parâmetros int.
+A _**Sobrecarga de Métodos**_ é um recurso que permite que _**uma classe tenha vários métodos com o mesmo nome, mas com número, sequência ou tipo de parâmetros diferentes. Em resumo, vários métodos com o mesmo nome, mas com assinaturas diferentes.**_ Por exemplo, a assinatura do método somar(int a, int b) com dois parâmetros int é diferente da assinatura do método somar(int a, int b, int c) com três parâmetros int.
 
 Este é um dos recursos de programação orientada a objetos mais populares em java, existem vários casos em que precisamos de mais de um método com o mesmo nome. Por exemplo, digamos que estamos escrevendo um programa java para encontrar a soma dos números de entrada, logo, precisamos de diferentes formas do método somar com base nas entradas do usuário, como somar(int, int), somar(float, float), somar(int, float), entre outros.
 
