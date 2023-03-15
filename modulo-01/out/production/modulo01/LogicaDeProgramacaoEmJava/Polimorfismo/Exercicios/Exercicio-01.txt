@@ -1,0 +1,15 @@
+Exercício 01
+
+A palavra polimorfismo significa muitas formas. Vem da palavra grega poli (significa muitos) e morphos (significa forma).
+Por exemplo, em química, o carbono exibe polimorfismo porque pode ser encontrado em mais de uma forma: grafite e diamante.
+Mas, cada uma das fórmulas tem suas próprias propriedades distintas.
+
+A partir desta definição de polimorfismo, qual alternativa apresenta três maneiras de sobrecarga de métodos?
+
+✅
+- 🔳 - a - número de parâmetros, tipo de retorno do método, assinatura diferente do método
+- 🔳 - b - número de parâmetros, tipos de dados dos parâmetros, ordem dos tipos de dados de parâmetros
+- 🔳 - c - ordem dos tipos de dados de parâmetros, assinatura diferente do método, tipo de retorno do método
+- 🔳 - d - tipos de dados dos parâmetros, ordem dos tipos de dados de parâmetros, tipo de retorno do método
+- 🔳 - e - tipo de retorno do método, número de parâmetros, ordem dos parâmetros
+
