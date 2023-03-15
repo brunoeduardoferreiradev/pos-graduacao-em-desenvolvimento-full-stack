@@ -7,9 +7,9 @@ Considere esta hierarquia onde uma classe filha herda os métodos e atributos de
 Tanto a classe pai quanto a classe filha tem um método chamado calcular().
 Qual alternativa melhor descreve a execução deste programa?
 
-✅
+
 - 🔳 - a - se o objeto da classe filho chamar o método calcular(), o método da classe filho será executado e, em seguida, o método da classe pai
 - 🔳 - b - se o objeto da classe pai chamar o método calcular(), o método da classe pai será executado e, em seguida, o método da classe filho
-- 🔳 - c - se o objeto da classe filho chamar o método calcular(), o método da classe filho substituirá o método da classe pai
+- ✅ - c - se o objeto da classe filho chamar o método calcular(), o método da classe filho substituirá o método da classe pai
 - 🔳 - d - se o objeto da classe pai chamar o método calcular(), o método da classe filho será executado e, em seguida, o método da classe pai
 - 🔳 - e - se o objeto da classe filho chamar o método calcular(), o método da classe pai será executado e substituirá o método da classe filho
