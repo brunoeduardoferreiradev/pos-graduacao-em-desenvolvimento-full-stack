@@ -1,0 +1,14 @@
+Exercício 04
+
+Polimorfismo é uma palavra que significa várias formas.
+Considere, por exemplo, uma classe chamada Pessoa.
+Nesta classe, dentre os diversos métodos, temos um chamado correr, o qual recebe dois parâmetros do tipo inteiro; temos também um método chamado aferirVelocidade, o qual possuí apenas 1 atributo do tipo inteiro.
+A classe chamada Corredor é um tipo de Pessoa e possuí o método correr com dois parâmetros do tipo inteiro e dois parâmetros do tipo double; o método aferirVelocidade da classe Corredor possui apenas 1 atributo do tipo inteiro.
+Sobre estes métodos, é correto dizer: (marque a alternativa correta)
+
+✅
+- 🔳 - a - Existe sobrecarga no método correr, pois a assinatura é diferente
+- 🔳 - b - Existe sobrescrita nos métodos correr da classe Pessoa e Corredor
+- 🔳 - c - Existe sobrecarga no método correr pois temos tipos de dados diferentes
+- 🔳 - d - Existe sobrescrita no método aferirVelocidade e sobrecarga no método Correr
+- 🔳 - e - Existe sobrescrita nos métodos correr e aferirVelocidade
