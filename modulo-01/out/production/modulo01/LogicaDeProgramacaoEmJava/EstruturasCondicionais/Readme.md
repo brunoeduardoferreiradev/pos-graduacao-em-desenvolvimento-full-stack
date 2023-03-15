@@ -12,7 +12,7 @@ Analisando de perto, temos uma sequência encadeada de instruções. Porém, e s
 * Compreender o conceito de controle de fluxo de código.
 * Reconhecer os tipos de operadores lógicos e de comparação.
 * Compreender o significado de cada tipo de estrutura de controle de fluxo.
-* Diferenciar as estruturas de condição simples, composta e aninhada.
+* Diferenciar as estruturas de condição simples, composta e aninhada. 
 
 
 ## **Resumo**
