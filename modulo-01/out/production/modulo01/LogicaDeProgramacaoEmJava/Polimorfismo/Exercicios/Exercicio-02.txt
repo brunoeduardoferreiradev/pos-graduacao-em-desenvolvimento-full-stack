@@ -1,0 +1,13 @@
+Exercício 02
+
+Digamos que temos uma classe Animal que tem um método chamado som().
+Como esta é uma classe genérica, não podemos dar uma implementação como: miar, latir, rosnar, entre outros sons de diferentes animais.
+Supondo que existem duas classes, uma chamada cachorro e outra chamada gato que herdam da classe animal, cada uma possui em seu escopo respectivamente as mensagens System.out.println(“latindo…”); e System.out.println(“miando…”);.
+Considerando que o nome do método som() não foi modificado, mas somente seu conteúdo, temos um exemplo de (marque a alternativa correta)
+
+✅
+- 🔳 - a - polimorfismo, mais especificamente sobrescrita pois são passados parâmetros diferentes para o mesmo método
+- 🔳 - b - polimorfismo, mais especificamente sobrescrita pois temos os métodos com a mesma assinatura
+- 🔳 - c - polimorfismo, mais especificamente sobrecarga pois temos os métodos com a mesma assinatura
+- 🔳 - d - polimorfismo, mais especificamente sobrecarga pois cada método possui um comportamento diferente
+- 🔳 - e - polimorfismo, mais especificamente sobrecarga pois a assinatura dos métodos é diferente
