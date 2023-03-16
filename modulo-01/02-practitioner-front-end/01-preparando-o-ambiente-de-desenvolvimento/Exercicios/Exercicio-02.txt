@@ -1,0 +1,10 @@
+Exercicio 02
+
+Qual destas não é funcionalidade de uma IDE?
+
+- 🔳 - a - Editor de código
+- 🔳 - b - Compilador de código
+- 🔳 - c - Depurador de código
+- 🔳 - d - Corretor de sintaxe
+- ✅ - e - Plataformas low-code
+
