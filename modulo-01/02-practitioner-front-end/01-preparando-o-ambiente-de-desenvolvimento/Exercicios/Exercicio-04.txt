@@ -1,0 +1,10 @@
+Exercicio 04
+
+Por padrão, como deve se chamar a página inicial de um projeto?
+
+- 🔳 - a - Início
+- 🔳 - b - begin
+- ✅ - c - index
+- 🔳 - d - config
+- 🔳 - e - config
+
