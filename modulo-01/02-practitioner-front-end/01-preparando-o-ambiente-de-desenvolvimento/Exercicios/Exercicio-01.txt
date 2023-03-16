@@ -1,0 +1,10 @@
+Exercicio 01
+
+Qual é a definição correta de IDE?
+
+- 🔳 - a - Information Development Environment
+- 🔳 - b - Informatics Development Environment
+- 🔳 - c - Integração de Desenvolvimento de Informática
+- ✅ - d - Ambiente de Desenvolvimento Integrado
+- 🔳 - e - Ambiente de Desenvolvimento Informado
+
