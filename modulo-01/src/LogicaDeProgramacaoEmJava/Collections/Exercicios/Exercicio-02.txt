@@ -1,1 +1,15 @@
 Exercício 2
+
+Antes do lançamento do framework Java Collection, Vectores, Stacks e Arrays estavam lá e eram muito utilizados.
+A grande desvantagem é que eles não tinham uma interface comum e interconexão entre si.
+Nesse caso, torna-se tedioso para o usuário lembrar de todas as funções e sintaxe.
+Além disso, as formas convencionais, como arrays e pilhas, não estavam fornecendo o desempenho e a flexibilidade desejados.
+
+Dentre as diversas implementações, a interface List é implementada por quais classes?
+
+
+- 🔳 - a - PriorityQueue, ArrayList, Vectors e Stack
+- 🔳 - b - ArrayList, PriorityQueue, HashMap e Stack
+- 🔳 - c - Vectors, ArrayList, Vectors e TreeSet
+- 🔳 - d - Stack, ArrayList, HashMap e LinkedHashSet
+- ✅ - e - LinkedList, ArrayList, Vectors e Stack
