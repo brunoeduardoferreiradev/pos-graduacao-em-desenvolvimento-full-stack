@@ -1,1 +1,16 @@
 Exercício 4
+
+Considere um ArrayList de números inteiros do código a seguir
+
+ArrayList<Integer> lista = new ArrayList<>();     // Linha 01
+for(int i=0; i<8; i++)                            // Linha 02
+   lista.add(i, i+1);                             // Linha 03
+System.out.println(lista.get(4));                 // Linha 04
+
+Sobre a execução e saída deste código, marque a alternativa correta.
+
+- 🔳 - a - Este código adicionará 16 valores em um ArrayList, com incrementos nas linhas 2 e 3
+- ✅ - b - Este código adicionará valores em um ArrayList da posição 0 até posição 8
+- 🔳 - c - Este código realizará uma pesquisa na lista para encontrar o número 4
+- 🔳 - d - Este código retornará o valor que está no índice 4 da lista, que neste caso, é o número 5
+- 🔳 - e - Este código adiciona 8 valores na lista, sendo que o primeiro está na posição 1 e o último na posição 8
