@@ -1,0 +1,9 @@
+Exercicio 03
+
+Qual destas é um exemplo de IDE?
+
+- 🔳 - a - Microsoft Word
+- 🔳 - b - WordPad
+- ✅ - c - Visual Studio Code
+- 🔳 - d - LibreOffice
+- 🔳 - e - Terminator
