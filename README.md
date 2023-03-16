@@ -39,7 +39,7 @@
  
 ## Ementa
 * 📁- Módulo 01
-  * - Lógica de Programação com Java - 30h
+  * - Lógica de Programação com Java - 30h - Finalizado <b>15/03/2023</b>
   * - Practitioner Front-End - 30h → Html, CSS, Bootstrap
   * - Interface de Software - 30h → Design Thinking, UX e Metodologias Ágeis
   * - Intermediary Front-End - 30h → Javascript, Git, Node.js
