@@ -11,8 +11,8 @@ III. o framework Java Collection necessita que o desenvolvedor implemente a arqu
 
 Está correto apenas o que se afirma em:
 
-- ✅ - a - I e II, apenas
-- 🔳 - b - II e III, apenas
-- 🔳 - c - I e III, apenas
-- 🔳 - d - III, apenas
-- 🔳 - e - I, II e III
+- 🔳 - a - Composição
+- 🔳 - b - Herança
+- 🔳 - c - Encapsulamento
+- ✅ - d - Abstração
+- 🔳 - e - Acoplamento
