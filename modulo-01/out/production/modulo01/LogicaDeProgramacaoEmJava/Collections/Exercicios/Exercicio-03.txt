@@ -1,1 +1,13 @@
 Exercício 3
+O framework Java Collections fornece alto desempenho e alta eficiência.
+Isso se deve ao fato de que várias implementações de cada interface são intercambiáveis, de modo que os programas podem ser escritos por implementações de comutação.
+Alguns métodos de cada interface do Collections Framework possuem uma implementação uniforme.
+A API Collections possui interfaces básicas como Set, Map e List, então as classes que as implementam possuem alguns conjuntos comuns de métodos.
+De posse desta informação, marque a alternativa que apresenta métodos responsáveis por adicionar, remover e verificar se um objeto está presente na coleção
+
+
+- 🔳 - a - insert(obj), remove(), isObject(obj)
+- ✅ - b - add(obj), clear(), contains(obj)
+- 🔳 - c - insert(obj), delete(obj), contains()
+- 🔳 - d - add(obj) delete(obj), contain()
+- 🔳 - e - put(obj), clear(), contain()
