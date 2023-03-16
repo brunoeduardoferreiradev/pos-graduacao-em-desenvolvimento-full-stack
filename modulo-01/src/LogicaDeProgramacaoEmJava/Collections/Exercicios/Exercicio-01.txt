@@ -1,1 +1,18 @@
 Exercício 1
+
+Considere o exemplo de um cofrinho. Todos nós o tivemos durante a nossa infância, onde costumávamos guardar nossas moedas. Este cofrinho chama-se Coleção e as moedas não passam de objetos. Tecnicamente, uma coleção é um objeto ou um contêiner que armazena um grupo de outros objetos.
+Considere então as afirmativas a seguir
+
+I. o framework Java Collection é uma arquitetura para manipular e representar coleções em Java
+
+II. o framework Java Collection é uma hierarquia formada por interfaces e classes
+
+III. o framework Java Collection necessita que o desenvolvedor implemente a arquitetura de interfaces e classes
+
+Está correto apenas o que se afirma em:
+
+- ✅ - a - I e II, apenas
+- 🔳 - b - II e III, apenas
+- 🔳 - c - I e III, apenas
+- 🔳 - d - III, apenas
+- 🔳 - e - I, II e III
