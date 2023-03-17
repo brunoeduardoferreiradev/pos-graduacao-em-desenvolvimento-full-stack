@@ -1,0 +1,9 @@
+Exercício 03
+
+Qual elemento HTML define o título de um documento?
+
+- ✅ - a - <title>
+- 🔳 - b - <meta>
+- 🔳 - c - <head>
+- 🔳 - d - <header>
+- 🔳 - e - <p>
