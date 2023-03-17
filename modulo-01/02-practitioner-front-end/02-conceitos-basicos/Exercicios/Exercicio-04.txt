@@ -1,0 +1,9 @@
+Exercicio 04
+
+Qual elemento HTML é usado para especificar rodapé para um documento ou seção?
+
+- 🔳 - a - <bottom>
+- 🔳 - b - <section>
+- ✅ - c - <footer>
+- 🔳 - d - <foot>
+- 🔳 - e - <rodape>
