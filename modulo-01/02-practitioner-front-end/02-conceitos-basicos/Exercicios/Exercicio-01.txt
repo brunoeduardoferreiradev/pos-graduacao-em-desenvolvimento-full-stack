@@ -1,0 +1,10 @@
+Exercício 01
+
+Quem convenciona os padrões da Web?
+
+
+- 🔳 - a - Mozilla
+- ✅ - b - The World Wide Web Consortium
+- 🔳 - c - Microsoft
+- 🔳 - d - Google
+- 🔳 - e - Facebook
