@@ -1,0 +1,9 @@
+Exercício 02
+
+Escolha o elemento correto para utilizar no maior tamanho de título de uma página HTML:
+
+- 🔳 - a - <heading>
+- 🔳 - b - <head>
+- ✅ - c - <h1>
+- 🔳 - d - <h6>
+- 🔳 - e - <header>
