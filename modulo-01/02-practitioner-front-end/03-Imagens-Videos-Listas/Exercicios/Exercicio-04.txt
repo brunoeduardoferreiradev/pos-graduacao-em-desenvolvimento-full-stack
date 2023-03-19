@@ -1,0 +1,9 @@
+Exercicio 04
+
+Com qual desses elementos pode-se fazer uma lista numerada?
+
+- 🔳 - a - <dl>
+- 🔳 - b - <ul>
+- 🔳 - c - <list>
+- ✅ - d - <ol>
+- 🔳 - e - <lu>
