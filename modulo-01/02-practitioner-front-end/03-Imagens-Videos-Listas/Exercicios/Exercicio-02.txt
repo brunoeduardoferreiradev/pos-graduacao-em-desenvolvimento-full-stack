@@ -1,0 +1,9 @@
+Exercício 02
+
+Qual atributo especifica um texto alternativo para uma imagem, caso a imagem não possa ser exibida?
+
+- ✅ - a - alt
+- 🔳 - b - title
+- 🔳 - c - longdesc
+- 🔳 - d - src
+- 🔳 - e - description
