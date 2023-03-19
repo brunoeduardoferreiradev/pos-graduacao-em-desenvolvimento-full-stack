@@ -1,0 +1,9 @@
+Exercício 03
+
+Qual é o elemento correto para fazer uma lista suspensa?
+
+- 🔳 - a - <inputtype="dropdown">
+- 🔳 - b - <inputtype="list">
+- 🔳 - c - <list>
+- ✅ - d - <select>
+- 🔳 - e - <li>
