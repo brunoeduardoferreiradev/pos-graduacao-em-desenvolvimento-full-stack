@@ -1,0 +1,10 @@
+Exercício 01
+
+Qual a sintaxe correta para inserir uma imagem em uma página HTML?
+
+
+- ✅ - a - <img src="image.gif"alt="MyImage">
+- 🔳 - b - <img alt="MyImage">image.gif</img>
+- 🔳 - c - <img href="image.gif"alt="MyImage">
+- 🔳 - d - <image src="image.gif"alt="MyImage">
+- 🔳 - e - <imagem src="image.gif"alt="MyImage">
