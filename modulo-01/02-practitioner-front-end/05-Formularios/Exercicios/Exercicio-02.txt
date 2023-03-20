@@ -1,0 +1,9 @@
+Exercício 02
+
+Em HTML, qual atributo é usado para especificar o que deve ser preenchido em um campo?
+
+- 🔳 - a - placeholder
+- 🔳 - b - validate
+- ✅ - c - required
+- 🔳 - d - formvalidate
+- 🔳 - e - value
