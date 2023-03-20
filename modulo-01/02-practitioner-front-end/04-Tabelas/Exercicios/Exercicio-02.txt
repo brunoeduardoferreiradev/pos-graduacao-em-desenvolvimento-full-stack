@@ -1,0 +1,9 @@
+Exercício 02
+
+Qual é a tag que define a legenda da tabela?
+
+- ✅ - a - <caption>
+- 🔳 - b - <leg>
+- 🔳 - c - <body>
+- 🔳 - d - <td>
+- 🔳 - e - <tr>
