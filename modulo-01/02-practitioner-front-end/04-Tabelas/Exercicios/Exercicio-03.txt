@@ -1,0 +1,9 @@
+Exercício 03
+
+Qual elemento define as linhas de uma tabela?
+
+- 🔳 - a - <tl>
+- ✅ - b - <tr>
+- 🔳 - c - <th>
+- 🔳 - d - <td>
+- 🔳 - e - <ta>
