@@ -1,0 +1,9 @@
+Exercicio 04
+
+Qual elemento define as células de uma tabela?
+
+- 🔳 - a - <tl>
+- 🔳 - b - <tr>
+- 🔳 - c - <tx>
+- ✅ - d - <td>
+- 🔳 - e - <ta>
