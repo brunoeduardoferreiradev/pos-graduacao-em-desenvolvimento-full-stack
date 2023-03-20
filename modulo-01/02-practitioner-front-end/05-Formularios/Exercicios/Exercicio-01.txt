@@ -1,0 +1,10 @@
+Exercício 01
+
+Qual é o HTML correto para fazer uma caixa de seleção?
+
+
+- 🔳 - a - <inputtype="check">
+- 🔳 - b - <checkbox>
+- 🔳 - c - <check>
+- ✅ - d - <inputtype="checkbox">
+- 🔳 - e - <check−input>
