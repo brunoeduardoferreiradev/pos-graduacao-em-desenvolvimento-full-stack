@@ -1,0 +1,9 @@
+Exercício 03
+
+Qual o elemento do HTML5 é usado para agrupar elementos dentro de um formulário?
+
+- 🔳 - a - <group>
+- 🔳 - b - <div>
+- 🔳 - c - <section>
+- 🔳 - d - <form>
+- ✅ - e - <fieldset>
