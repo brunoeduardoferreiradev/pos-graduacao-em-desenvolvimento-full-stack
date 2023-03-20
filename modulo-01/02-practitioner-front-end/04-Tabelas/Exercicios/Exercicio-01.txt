@@ -1,0 +1,10 @@
+Exercício 01
+
+Quais destes são todos elementos de uma tabela?
+
+
+- 🔳 - a - Quais destes são todos elementos de uma tabela?
+- 🔳 - b - <table>,<head>,<body>,<tr>,<td>,<foot>
+- 🔳 - c - <table>,<theader>,<tbody>,<tr>,<td>,<tfooter>
+- ✅ - d - <table>,<thead>,<tbody>,<tr>,<td>,<tfoot>
+- 🔳 - e - <tabela><cabecalho><corpo><coluna><linha><rodape>
