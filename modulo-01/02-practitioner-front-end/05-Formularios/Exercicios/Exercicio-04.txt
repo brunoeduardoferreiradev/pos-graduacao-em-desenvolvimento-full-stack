@@ -1,0 +1,9 @@
+Exercicio 04
+
+Qual atributo do <form> define o destino dos dados?
+
+- 🔳 - a - method
+- ✅ - b - action
+- 🔳 - c - POST
+- 🔳 - d - GET
+- 🔳 - e - target
